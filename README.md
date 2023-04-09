@@ -25,14 +25,14 @@ Note that this program requires `pynput` and `pyautogui` libraries.
 3. Click the mouse button12 to input a dash `-`.
 4. Click the mouse button11 to translate the Morse code signal to a keyboard character.
 
-## Contributing
-
-If you find any issues or have suggestions for improvements, please feel free to contribute! Fork the repository, create a new branch, make your changes, and submit a pull request to the main branch.
-
 ## About This Program
 
 I only tested this on Ubuntu 22.04. After pip installing the requirements, you might have to install some more things. It should say on the error message what to install. If you see a message like "sudo apt install", that's the message your looking for.
 The button10 to button12 is a custom functions button on my mouse. You might have to change them to use it for your mouse.
+
+## Contributing
+
+If you find any issues or have suggestions for improvements, please feel free to contribute! Fork the repository, create a new branch, make your changes, and submit a pull request to the main branch.
 
 ## License
 
