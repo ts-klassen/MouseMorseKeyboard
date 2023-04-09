@@ -22,8 +22,8 @@ Note that this program requires `pynput` and `pyautogui` libraries.
 
 1. Start the program by running `python3 main.py` in your terminal emulator.
 2. Click the mouse button10 to input a dot `.`.
-3. Click the mouse button11 to input a dash `-`.
-4. Click the mouse button12 to translate the Morse code signal to a keyboard character.
+3. Click the mouse button12 to input a dash `-`.
+4. Click the mouse button11 to translate the Morse code signal to a keyboard character.
 
 ## Contributing
 
