@@ -25,8 +25,6 @@ with open('morse_codes.csv', 'r') as csv_file:
     for row in csv_reader:
         morse_codes[row['code']] = row['char']
 
-print(morse_codes['.'])
-
 
 listener = mouse.Listener(on_click=morse_decode)
 listener.start()
